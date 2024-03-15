@@ -7,9 +7,9 @@
 - [ ] Dashboard
 - [ ] Autenticação
 
-##Endpoints 
+## Endpoints 
 
-##Categorias 
+## Categorias 
 
 GET /categoria/
 
